@@ -5,13 +5,13 @@ e("div",{staticClass:"border rounded-xl overflow-hidden shadow hover:shadow-lg t
 e("img",{staticClass:"w-full h-48 object-cover",attrs:{src:"/images/CommunityOutreachGallery_03.jpg",alt:"Campaign 1"}}),
 t._v(" "),
 e("div",{staticClass:"p-6"},[
-e("h3",{staticClass:"text-xl font-semibold brand-green mb-2"},[t._v("The Future Pathway Scholars Program")]),
+e("h3",{staticClass:"text-xl font-semibold brand-green mb-2"},[t._v("The Future Pathway Program")]),
 t._v(" "),
 e("p",{staticClass:"text-gray-700 mb-4"},[t._v("An intensive mentorship and tutoring program that helps secondary school students prepare for university entrance exams, scholarship applications, and academic success in higher education.")]),
 t._v(" "),
 e("p",{staticClass:"text-sm text-gray-500 mb-4"},[e("strong",[t._v("Launch Date:")]),t._v(" December 1, 2025")]),
 t._v(" "),
-e("a",{staticClass:"brand-gold font-semibold hover:underline",attrs:{href:"#"}},[t._v("Learn More")])
+e("a",{staticClass:"brand-gold font-semibold hover:underline",attrs:{href:"/Fpp.html"}},[t._v("Learn More")])
 ])
 ]),
 
@@ -44,29 +44,5 @@ t._v(" "),
 e("a",{staticClass:"brand-gold font-semibold hover:underline",attrs:{href:"#"}},[t._v("Learn More")])
 ])
 ]),
-
-/* ✅ Project 4 (FIXED) */
-e("div",{staticClass:"border rounded-xl overflow-hidden shadow hover:shadow-lg transition cursor-pointer"},[
-e("img",{staticClass:"w-full h-48 object-cover",attrs:{src:"/images/1772899118358.jpg.jpeg",alt:"PATHE Tutors Visit"}}),
-t._v(" "),
-e("div",{staticClass:"p-6"},[
-e("h3",{staticClass:"text-xl font-semibold brand-green mb-2"},[
-t._v("PATHE Tutors Visit Secondary Schools in Benin City")
-]),
-t._v(" "),
-e("p",{staticClass:"text-gray-700 mb-4"},[
-t._v("The PATHE Initiative continues to expand its impact in secondary schools as our tutors actively engage with students to provide guidance on academic and career development. As part of this effort, a team of PATHE tutors recently visited schools in Benin City to introduce students and school leaders to the goals and opportunities offered by the initiative.")
-]),
-t._v(" "),
-e("p",{staticClass:"text-sm text-gray-500 mb-4"},[
-e("strong",[t._v("Launch Date:")]),
-t._v(" February, 2026")
-]),
-t._v(" "),
-e("a",{staticClass:"brand-gold font-semibold hover:underline",attrs:{href:"#"}},[
-t._v("Learn More")
-])
-])
-])
 
 ])])}],!1,null,"3de7a57e",null);e.default=component.exports}}]);
