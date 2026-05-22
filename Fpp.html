@@ -7,6 +7,7 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
+    
     <style>
   .future-program-section{
     background:#f9fafb;
@@ -69,6 +70,34 @@
     line-height:1.8;
   }
 
+  .future-stats{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:25px;
+  margin-top:35px;
+}
+
+.future-stat-box{
+  background:#f9fafb;
+  padding:30px 20px;
+  border-radius:16px;
+  text-align:center;
+  border:1px solid #e5e7eb;
+}
+
+.future-stat-box h3{
+  font-size:42px;
+  color:#207F4B;
+  margin-bottom:10px;
+  font-weight:700;
+}
+
+.future-stat-box p{
+  color:#555;
+  font-size:16px;
+  font-weight:600;
+}
+
   .future-green-box{
     background:#207F4B;
     color:white;
@@ -89,6 +118,22 @@
     margin:0 auto 20px;
     font-size:17px;
   }
+
+  .future-home-link{
+  display:inline-flex;
+  align-items:center;
+  gap:10px;
+  margin-bottom:25px;
+  color:#207F4B;
+  text-decoration:none;
+  font-weight:600;
+  font-size:16px;
+  transition:0.3s;
+}
+
+.future-home-link:hover{
+  opacity:0.8;
+}
 
   .future-btn{
     display:inline-block;
@@ -133,6 +178,9 @@
 <section class="future-program-section">
 
   <div class="future-container">
+    <a href="/" class="future-home-link">
+  ← Back to Home
+</a>
 
     <!-- Hero Section -->
     <div class="future-card">
@@ -172,6 +220,38 @@
       </div>
 
     </div>
+
+    <!-- Program Statistics -->
+<div class="future-card">
+
+  <div class="future-content">
+
+    <h2 class="future-subtitle">
+      Program Impact
+    </h2>
+
+    <div class="future-stats">
+
+      <div class="future-stat-box">
+        <h3>3</h3>
+        <p>Partner Schools</p>
+      </div>
+
+      <div class="future-stat-box">
+        <h3>28</h3>
+        <p>Students Impacted</p>
+      </div>
+
+      <!-- <div class="future-stat-box">
+        <h3>7</h3>
+        <p>Tutorial Sessions</p>
+      </div> -->
+
+    </div>
+
+  </div>
+
+</div>
 
     <!-- About -->
     <div class="future-card">
