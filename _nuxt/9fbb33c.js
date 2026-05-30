@@ -12,4 +12,79 @@
   e("p",{staticClass:"text-gray-500 text-sm"},[
     t._v("\n              Precious Isiakpere is a Chemical Engineering graduate with a Bachelor of Engineering (B.Eng) degree and a passion for leadership, sustainable development, and strategic communication. He serves as the Edo State Program Officer at PATHE Initiative, President of the NYSC SDGs CDS in Egor LGA, Edo State.\n            ")
   ])
-]),t._v(" "),e("div",{staticClass:"p-6 bg-white rounded-xl shadow-md"},[e("img",{staticClass:"w-32 h-32 rounded-full mx-auto mb-4 object-cover",attrs:{src:n(358),alt:"Program Director"}}),t._v(" "),e("h3",{staticClass:"text-xl font-bold brand-green"},[t._v("Timilehin Adetunji")]),t._v(" "),e("p",{staticClass:"text-sm text-gray-600 mb-2"},[t._v("Volunteer")]),t._v(" "),e("p",{staticClass:"text-gray-500 text-sm"},[t._v("\n              Adetunji is a committed researcher and data\n              analyst. He earned a First-Class degree in Economics from the\n              Federal University Gashua.\n            ")])]),t._v(" "),e("div",{staticClass:"p-6 bg-white rounded-xl shadow-md"},[e("img",{staticClass:"w-32 h-32 rounded-full mx-auto mb-4 object-cover",attrs:{src:n(359),alt:"Volunteer"}}),t._v(" "),e("h3",{staticClass:"text-xl font-bold brand-green"},[t._v("Abass Moji")]),t._v(" "),e("p",{staticClass:"text-sm text-gray-600 mb-2"},[t._v("Volunteer")]),t._v(" "),e("p",{staticClass:"text-gray-500 text-sm"},[t._v("\n              Mojisola, is a recent graduate who is very driven and excited about food science and technology.\n            ")])])])])]),t._v(" "),e("section",{staticClass:"py-20 text-center bg-brand-green text-white"},[e("h2",{staticClass:"text-3xl font-bold mb-4"},[t._v("Be Part of the Change")]),t._v(" "),e("p",{staticClass:"max-w-2xl mx-auto mb-6"},[t._v("\n        Together, we can empower more lives and build stronger, self-reliant\n        communities. Join our mission today.\n      ")]),t._v(" "),e("a",{staticClass:"bg-white text-brand-green px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition",staticStyle:{color:"#207F4B"},attrs:{href:"https://docs.google.com/forms/d/e/1FAIpQLScqqYCQ2mIWreRTTT9hC3wyJCN41YOYAZ1LqUr2wGq2S3w7DQ/viewform?usp=header",target:"_blank"}},[t._v("Join Us")])])])}],o={name:"page",layout:"other-pages",data:function(){return{}},head:function(){return{title:"About Us | Pathe Initiative",meta:[{hid:"description",name:"description",content:"Pathe Initiative, about us"}]}}},d=(n(360),n(22)),component=Object(d.a)(o,(function(){this._self._c;return this._m(0)}),r,!1,null,"f646c726",null);e.default=component.exports}}]);
+]),t._v(" "),e("div",{staticClass:"p-6 bg-white rounded-xl shadow-md"},[e("img",{staticClass:"w-32 h-32 rounded-full mx-auto mb-4 object-cover",attrs:{src:n(358),alt:"Program Director"}}),t._v(" "),e("h3",{staticClass:"text-xl font-bold brand-green"},[t._v("Timilehin Adetunji")]),t._v(" "),e("p",{staticClass:"text-sm text-gray-600 mb-2"},[t._v("Volunteer")]),t._v(" "),e("p",{staticClass:"text-gray-500 text-sm"},[t._v("\n              Adetunji is a committed researcher and data\n              analyst. He earned a First-Class degree in Economics from the\n              Federal University Gashua.\n            ")])]),t._v(" "),e("div",{staticClass:"p-6 bg-white rounded-xl shadow-md"},[e("img",{staticClass:"w-32 h-32 rounded-full mx-auto mb-4 object-cover",attrs:{src:n(359),alt:"Volunteer"}}),t._v(" "),e("h3",{staticClass:"text-xl font-bold brand-green"},[t._v("Abass Moji")]),t._v(" "),e("p",{staticClass:"text-sm text-gray-600 mb-2"},[t._v("Volunteer")]),t._v(" "),e("p",{staticClass:"text-gray-500 text-sm"},[t._v("\n              Mojisola, is a recent graduate who is very driven and excited about food science and technology.\n            ")])])])])]),t._v(" "),t._v(" "),
+e("section",{staticClass:"py-10 bg-gray-50 px-6 text-center"},[
+  e("div",{staticClass:"max-w-6xl mx-auto"},[
+
+    e("h2",{staticClass:"text-3xl font-bold brand-green mb-10"},[
+      t._v("Meet Our PATHE Tutors")
+    ]),
+
+    t._v(" "),
+
+    e("div",{staticClass:"grid md:grid-cols-2 gap-8 justify-center"},[
+
+      /* Precious Card */
+      e("div",{staticClass:"p-6 bg-white rounded-xl shadow-md"},[
+        e("img",{
+          staticClass:"w-32 h-32 rounded-full mx-auto mb-4 object-cover bg-gray-300",
+          attrs:{
+            src:"",
+            alt:"Precious Isiakpere"
+          }
+        }),
+
+        t._v(" "),
+
+        e("h3",{staticClass:"text-xl font-bold brand-green"},[
+          t._v("Precious Isiakpere")
+        ]),
+
+        t._v(" "),
+
+        e("p",{staticClass:"text-sm text-gray-600 mb-2"},[
+          t._v("PATHE Tutor")
+        ]),
+
+        t._v(" "),
+
+        e("p",{staticClass:"text-gray-500 text-sm"},[
+          t._v("Precious Isiakpere is a Chemical Engineering graduate with a Bachelor of Engineering (B.Eng) degree and a passion for leadership, sustainable development, and strategic communication.")
+        ])
+      ]),
+
+      t._v(" "),
+
+      /* Dummy Card */
+      e("div",{staticClass:"p-6 bg-white rounded-xl shadow-md"},[
+        e("img",{
+          staticClass:"w-32 h-32 rounded-full mx-auto mb-4 object-cover bg-gray-300",
+          attrs:{
+            src:"",
+            alt:"Tutor"
+          }
+        }),
+
+        t._v(" "),
+
+        e("h3",{staticClass:"text-xl font-bold brand-green"},[
+          t._v("Tutor Name")
+        ]),
+
+        t._v(" "),
+
+        e("p",{staticClass:"text-sm text-gray-600 mb-2"},[
+          t._v("PATHE Tutor")
+        ]),
+
+        t._v(" "),
+
+        e("p",{staticClass:"text-gray-500 text-sm"},[
+          t._v("Tutor profile information will be added here.")
+        ])
+      ])
+
+    ])
+
+  ])
+]),e("section",{staticClass:"py-20 text-center bg-brand-green text-white"},[e("h2",{staticClass:"text-3xl font-bold mb-4"},[t._v("Be Part of the Change")]),t._v(" "),e("p",{staticClass:"max-w-2xl mx-auto mb-6"},[t._v("\n        Together, we can empower more lives and build stronger, self-reliant\n        communities. Join our mission today.\n      ")]),t._v(" "),e("a",{staticClass:"bg-white text-brand-green px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition",staticStyle:{color:"#207F4B"},attrs:{href:"https://docs.google.com/forms/d/e/1FAIpQLScqqYCQ2mIWreRTTT9hC3wyJCN41YOYAZ1LqUr2wGq2S3w7DQ/viewform?usp=header",target:"_blank"}},[t._v("Join Us")])])])}],o={name:"page",layout:"other-pages",data:function(){return{}},head:function(){return{title:"About Us | Pathe Initiative",meta:[{hid:"description",name:"description",content:"Pathe Initiative, about us"}]}}},d=(n(360),n(22)),component=Object(d.a)(o,(function(){this._self._c;return this._m(0)}),r,!1,null,"f646c726",null);e.default=component.exports}}]);
