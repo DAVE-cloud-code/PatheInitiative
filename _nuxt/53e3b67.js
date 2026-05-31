@@ -48,7 +48,7 @@
     e("img",{
       staticClass:"w-full h-72 object-cover bg-gray-200",
       attrs:{
-        src:"/images/1772899118418.jpg",
+        src:"/images/img4.jpeg",
         alt:"Future Pathway Program"
       }
     }),

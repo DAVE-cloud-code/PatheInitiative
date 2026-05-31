@@ -2,7 +2,7 @@
 
 /* Project 1 */
 e("div",{staticClass:"border rounded-xl overflow-hidden shadow hover:shadow-lg transition cursor-pointer"},[
-e("img",{staticClass:"w-full h-48 object-cover",attrs:{src:"/images/CommunityOutreachGallery_03.jpg",alt:"Campaign 1"}}),
+e("img",{staticClass:"w-full h-48 object-cover",attrs:{src:"/images/img4.jpeg",alt:"Campaign 1"}}),
 t._v(" "),
 e("div",{staticClass:"p-6"},[
 e("h3",{staticClass:"text-xl font-semibold brand-green mb-2"},[t._v("The Future Pathway Program")]),
