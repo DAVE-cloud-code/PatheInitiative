@@ -47,6 +47,7 @@
 
     e("img",{
       staticClass:"w-full h-72 object-cover bg-gray-200",
+      style:{objectPosition:"center 25%"},
       attrs:{
         src:"/images/img4.jpeg",
         alt:"Future Pathway Program"
@@ -73,7 +74,7 @@
 
         e("a",{
           staticClass:"px-4 py-2 bg-brand-green text-white rounded-md text-sm font-medium",
-          attrs:{href:"#"}
+          attrs:{href:"$"}
         },[
           t._v("Support Project")
         ]),
@@ -82,7 +83,7 @@
 
         e("a",{
           staticClass:"px-4 py-2 shadow-xl rounded-md text-sm font-medium",
-          attrs:{href:"#"}
+          attrs:{href:"/Fpp.html"}
         },[
           t._v("Learn More")
         ])
